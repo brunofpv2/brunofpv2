@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunofpv2
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning  React js
+- 🌱 I’m currently learning  JavaScript e LUA
 - 💞️ I’m looking to collaborate on  projetos de sites
 - 📫  Use minhas redes sociais para me encontrar
 
